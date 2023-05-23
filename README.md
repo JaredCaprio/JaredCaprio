@@ -1,6 +1,9 @@
 ### 👋 Hi, I’m @JaredCaprio
 
 
+[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcaprio)](https://github.com/jaredcaprio/github-readme-stats)
+
+
 <!---
 JaredCaprio/JaredCaprio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
