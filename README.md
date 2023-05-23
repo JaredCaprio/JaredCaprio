@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @JaredCaprio
 
 
-[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcaprio)](https://github.com/jaredcaprio/github-readme-stats)
+![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcaprio&show_icons=true&theme=dark)
 
 
 <!---
