@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JaredCaprio
-- 👀 I’m interested in HTML, CSS and Javascript
-- 🌱 I’m currently learning React and SCSS
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me on twitter @jaredcaprio
+### 👋 Hi, I’m @JaredCaprio
+
 
 <!---
 JaredCaprio/JaredCaprio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
