@@ -29,6 +29,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
 
 
+<details>
+  <summary><h3>My Coding Journey💻</h3></summary>
+  From the early days of high school, where curiosity sparked my interest in the intricate world of coding, to my current endeavors as a self-taught programmer, my journey has been one of discovery and growth. It all began with a lingering fascination about the inner workings of websites, prompting me to enroll in an introductory Web design class during my high school years. With each line of HTML and CSS, I delved deeper into the art of crafting digital experiences.
+
+Although my initial foray into coding didn't extend beyond that class, the allure of programming lingered in the recesses of my mind. A decade later, the resurging wave of self-taught programmers caught my attention, igniting a renewed passion within me. I embarked on a personal odyssey, determined to expand my knowledge and skills in the vast realm of programming.
+
+Starting with humble beginnings, I ventured into developing small websites for my band, utilizing the power of HTML, CSS, and gradually incorporating the enchanting realm of JavaScript. Front-end and web development became my primary focus, capturing my imagination with its blend of creativity and technical finesse. Eager to stay at the forefront of innovation, I remain receptive to embracing new tools and technologies, constantly seeking to refine my craft.
+
+At present, my ambitions have led me towards mastering the MERN (MongoDB, Express, React, Node.js) stack, an agile and comprehensive framework for building dynamic web applications. Simultaneously, I am engrossed in the realm of TypeScript, a superset of JavaScript that offers enhanced static typing and improved developer experience.
+
+Driven by an insatiable hunger for knowledge and a fervent desire to craft exceptional digital experiences, I continue to embark on my coding journey. With each new line of code, I strive to elevate the boundaries of what is possible, embracing challenges and seizing opportunities to evolve both as a programmer and as an individual.
+  </details>
 
 
 <!---
