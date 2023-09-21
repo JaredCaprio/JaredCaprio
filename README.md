@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jared
 
-
+I'm a detail-oriented software enthusiast with a focus on the MERN stack. Committed to crafting impactful web applications. Seeking opportunities to apply my skills in a dynamic tech environment.
 
 <h2>Tools & Technologies I Use</h2>
 
