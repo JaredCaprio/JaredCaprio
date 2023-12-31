@@ -1,49 +1,39 @@
-## 👋 Hi, I’m Jared
+<h1 align="center">Hi 👋, I'm Jared</h1>
+<h3 align="center">Software enthusiast committed to crafting impactful web applications</h3>
 
-I'm a detail-oriented software enthusiast with a focus on the MERN stack. Committed to crafting impactful web applications. Seeking opportunities to apply my skills in a dynamic tech environment.
+<p align="left"> <a href="https://twitter.com/jaredcaprio" target="blank"><img src="https://img.shields.io/twitter/follow/jaredcaprio?logo=twitter&style=for-the-badge" alt="jaredcaprio" /></a> </p>
 
-<h2>Tools & Technologies I Use</h2>
+- 🔭 I’m currently working on [FruitLuck](https://github.com/JaredCaprio/FruitLucks)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🌱 I’m currently learning **SvelteKit, ASP.NET Core**
 
----
-<img src="https://github-readme-stats.vercel.app/api?username=jaredcaprio&show_icons=true&theme=dark"/>
+- 👯 I’m looking to collaborate on [Kendama Round Up](https://github.com/JaredCaprio/kendama-roundup)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+- 🤝 I’m looking for help with [Relink](https://github.com/JaredCaprio/relink)
 
+- 👨‍💻 All of my projects are available at [https://jared-caprio.netlify.app/](https://jared-caprio.netlify.app/)
 
-<details>
-  <summary><h3>My Coding Journey💻</h3></summary>
-  From the early days of high school, where curiosity sparked my interest in the intricate world of coding, to my current endeavors as a self-taught programmer, my journey has been one of discovery and growth. It all began with a lingering fascination about the inner workings of websites, prompting me to enroll in an introductory Web design class during my high school years. With each line of HTML and CSS, I delved deeper into the art of crafting digital experiences.
+- 💬 Ask me about **React, SvelteKit or Node**
 
-Although my initial foray into coding didn't extend beyond that class, the allure of programming lingered in the recesses of my mind. A decade later, the resurging wave of self-taught programmers caught my attention, igniting a renewed passion within me. I embarked on a personal odyssey, determined to expand my knowledge and skills in the vast realm of programming.
+- 📫 How to reach me **jaredmcaprio@gmail.com**
 
-Starting with humble beginnings, I ventured into developing small websites for my band, utilizing the power of HTML, CSS, and gradually incorporating the enchanting realm of JavaScript. Front-end and web development became my primary focus, capturing my imagination with its blend of creativity and technical finesse. Eager to stay at the forefront of innovation, I remain receptive to embracing new tools and technologies, constantly seeking to refine my craft.
+- 📄 Know about my experiences [https://docs.google.com/document/d/1OTMa_Sf_NkHXIKO376Y0FLq7s1d5u7u0Z1O2KQNqR1g/edit?usp=sharing](https://docs.google.com/document/d/1OTMa_Sf_NkHXIKO376Y0FLq7s1d5u7u0Z1O2KQNqR1g/edit?usp=sharing)
 
-At present, my ambitions have led me towards mastering the MERN (MongoDB, Express, React, Node.js) stack, an agile and comprehensive framework for building dynamic web applications. Simultaneously, I am engrossed in the realm of TypeScript, a superset of JavaScript that offers enhanced static typing and improved developer experience.
+- ⚡ Fun fact **I'm a Kendama enthusiast**
 
-Driven by an insatiable hunger for knowledge and a fervent desire to craft exceptional digital experiences, I continue to embark on my coding journey. With each new line of code, I strive to elevate the boundaries of what is possible, embracing challenges and seizing opportunities to evolve both as a programmer and as an individual.
-  </details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/jaredcaprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaredcaprio" height="30" width="40" /></a>
+<a href="https://twitter.com/jaredcaprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaredcaprio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jared-caprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jared-caprio" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17904451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17904451" height="30" width="40" /></a>
+<a href="https://fb.com/jared.caprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jared.caprio" height="30" width="40" /></a>
+<a href="https://instagram.com/jaredcaprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaredcaprio" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredcaprio&show_icons=true&locale=en&layout=compact" alt="jaredcaprio" /></p>
 
 
-<!---
-JaredCaprio/JaredCaprio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
