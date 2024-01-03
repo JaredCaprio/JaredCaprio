@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SvelteKit, ASP.NET Core**
 
-- 👯 I’m looking to collaborate on [Kendama Round Up](https://github.com/JaredCaprio/kendama-roundup)
+- 👯 I’m looking to collaborate on [Falling Fruit](https://github.com/JaredCaprio/kendama-roundup](https://github.com/falling-fruit/falling-fruit-web))
 
 - 🤝 I’m looking for help with [Relink](https://github.com/JaredCaprio/relink)
 
