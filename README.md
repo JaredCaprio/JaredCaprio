@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jaredmcaprio@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OTMa_Sf_NkHXIKO376Y0FLq7s1d5u7u0Z1O2KQNqR1g/edit?usp=sharing](https://docs.google.com/document/d/1OTMa_Sf_NkHXIKO376Y0FLq7s1d5u7u0Z1O2KQNqR1g/edit?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/3xHBFIZ](https://bit.ly/3xHBFIZ)
 
 - ⚡ Fun fact **I'm a Kendama enthusiast**
 
