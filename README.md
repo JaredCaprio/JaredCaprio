@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Relink](https://github.com/JaredCaprio/relink)
 
-- 🌱 I’m currently learning **SvelteKit, ASP.NET Core**
+- 🌱 I’m currently learning **Nextjs, Tailwind**
 
 - 👯 I’m looking to collaborate on [Falling Fruit](https://github.com/falling-fruit/falling-fruit-web)
 
