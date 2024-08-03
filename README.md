@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Nextjs, Tailwind**
 
-- 👯 I’m looking to collaborate on [Falling Fruit](https://github.com/falling-fruit/falling-fruit-web)
-
 - 🤝 I’m looking for help with [Relink](https://github.com/JaredCaprio/relink)
 
 - 👨‍💻 All of my projects are available at [https://jared-caprio.netlify.app/](https://jared-caprio.netlify.app/)
