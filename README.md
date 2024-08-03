@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://jared-caprio.netlify.app/](https://jared-caprio.netlify.app/)
 
-- 💬 Ask me about **React, SvelteKit or Node**
+- 💬 Ask me about **React, Nextjs or Node**
 
 - 📫 How to reach me **jaredmcaprio@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/3xHBFIZ](https://bit.ly/3xHBFIZ)
 
 - ⚡ Fun fact **I'm a Kendama enthusiast**
 
