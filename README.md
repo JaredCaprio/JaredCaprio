@@ -23,8 +23,6 @@
 <a href="https://twitter.com/jaredcaprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaredcaprio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jared-caprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jared-caprio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17904451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17904451" height="30" width="40" /></a>
-<a href="https://fb.com/jared.caprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jared.caprio" height="30" width="40" /></a>
-<a href="https://instagram.com/jaredcaprio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaredcaprio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
