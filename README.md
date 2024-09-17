@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">Software enthusiast committed to crafting impactful web applications</h3>
+<h3 align="center">Dedicated to Crafting Intuitive Interfaces for Users</h3>
 
 <p align="left"> <a href="https://twitter.com/jaredcaprio" target="blank"><img src="https://img.shields.io/twitter/follow/jaredcaprio?logo=twitter&style=for-the-badge" alt="jaredcaprio" /></a> </p>
 
