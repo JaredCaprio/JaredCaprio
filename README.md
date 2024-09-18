@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaredcaprio" target="blank"><img src="https://img.shields.io/twitter/follow/jaredcaprio?logo=twitter&style=for-the-badge" alt="jaredcaprio" /></a> </p>
 
-- 🔭 I’m currently working on [Relink](https://github.com/JaredCaprio/relink)
+- 🔭 I’m currently working on [Kenjama](https://github.com/JaredCaprio/kenjama)
 
 - 🌱 I’m currently learning **Nextjs, Tailwind**
 
